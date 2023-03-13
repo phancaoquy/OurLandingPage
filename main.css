@@ -1,0 +1,273 @@
+.main-content{
+    width: 100%;
+}
+
+.section1{
+    width: 100%;
+}
+
+.container1{
+    position: relative;
+    margin: 0 0 5% 0;
+}
+
+.text-sect1{
+    width: 40%;
+    background-color: #FFFCF6;
+    margin: 2% 10% 0% 20%;
+    box-shadow: 0px 25px 10px rgba(0, 0, 0, 0.1);
+}
+
+.htitle-sect1{
+    padding: 30px 0 0 0;
+    text-align: center;
+    font-size: 22px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.para{
+    box-sizing: border-box;
+    padding: 10px 30px 30px 60px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+.sect1-img{
+    position: absolute;
+    top: 20%;
+    right: 15%;
+}
+
+.beehive{
+    width: 90%;
+    height: 90%;
+}
+
+.section3{
+    width: 100%;
+    background: linear-gradient(180deg, rgba(252, 227, 137, 0.2) 0%, rgba(255, 190, 121, 0) 31.39%);
+    margin: 5% 0;
+}
+
+.container3{
+    width: 100%;
+}
+
+.sect-title{
+    padding: 3% 0;
+}
+
+.title{
+    margin: 0 30% 0 30%;
+    border-radius: 22px;
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    font-size: 22px;
+    padding: 10px;
+}
+
+.rs-box{
+    display: flex;
+    justify-content: center;
+}
+
+.reason{
+    box-sizing: border-box;
+    background: #FCE389;
+    border: 3px solid #000000;
+    border-radius: 70px 70px 0px 0px;
+    width: 13.5%;
+    margin: 10px 40px 10px 40px;
+}
+
+.reason-text{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 20px 10px 10px 10px;
+}
+
+.rs-title{
+    padding: 10px 0;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.rs-text{
+    padding: 20px 20px 20px 20px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img-sect4{
+    position: relative;
+}
+
+.img4{
+    position: absolute;
+    top: -119px;
+    right: 10%;
+    width: 200px;
+    height: 200px;
+}
+
+.section4{
+    width: 100%;
+    background: linear-gradient(180deg, rgba(252, 228, 136, 0.5) 0%, rgba(255, 243, 230, 0) 100%);
+}
+
+.container4{
+    position: relative;
+    width: 100%;
+    margin: 0;
+}
+
+.sect4-tit{
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+}
+
+.sect-title4{
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    width: 39%;
+    border-radius: 60px;
+    font-size: 22px;
+    padding: 10px 0;
+}
+
+.sect4-material{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly
+}
+
+.text-sect4{
+    width: 20%;
+    margin: 0 0 0 15%;
+    position: relative;
+}
+
+.tc-title{
+    margin-top: 10px;
+    text-align: center;
+    padding: 30px 0 10px 0;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tc-para{
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+
+.tc-img{
+    position: absolute;
+    top: 20%;
+    left: -55%;
+}
+
+.text-sect4-right{
+    width: 20%;
+    margin: 0 13% 0 15%;
+    position: relative;
+}
+
+.tc-img-right{
+    position: absolute;
+    top: 20%;
+    right: -45%;
+}
+
+.bottle2{
+    width: 150px;
+    height: 150px;
+}
+
+.honey-bottle{
+    width: 100%;
+    position: absolute;
+    top: 30%;
+    left: 40.5%;
+}
+
+.bottle{
+    width: 300px;
+    width: 300px;
+}
+
+.bottom-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 70px 0 40px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bot-title{
+    width: 12.5%;
+    font-size: 18px;
+    color: white;
+    background: #000000;
+    border-radius: 60px;
+    text-align: center;
+    padding: 5px;
+    
+}
+
+.bot-para{
+    width: 30%;
+    text-align: center;
+    margin: 1% 0 2% 0;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+.section5{
+    width: 100%;
+    display: flex;
+}
+
+.product-buy{
+    margin: 50px auto;
+}
+
+.pd-title{
+    font-size: 22px;
+    color: #000000;
+    margin: 10px;
+    text-align: center;
+}
+
+.pd-price{
+    text-align: center;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 0 200px;
+    font-size: 18px;
+}
+
+.buy-button{
+    text-align: center;
+}
+
+.buy-but{
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+    outline: none;
+    background: #B23007;
+    border-radius: 50px;
+    padding: 20px 40px;
+    border: 0;
+    margin: 10px 0;
+}
